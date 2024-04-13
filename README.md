@@ -1,0 +1,1 @@
+--Para que el css se ejecute de forma adecuada porfavor sacar los html de la carpeta templates e ingresarlo a la carpeta main directamenta (cortar y pegar), antes de probarlo en el visual studio 
